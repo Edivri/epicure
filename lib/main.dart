@@ -73,7 +73,7 @@ class _MyHomePageState extends State<MyHomePage>
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: <Widget>[
                         Text(
-                          'Joccb Coleman',
+                          'Tamie Doe',
                           style: TextStyle(
                               fontSize: 25.0,
                               fontWeight: FontWeight.bold,
